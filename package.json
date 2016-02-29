@@ -1,0 +1,19 @@
+{
+  "name": "stick-it-web-server-api",
+  "version": "1.0.0",
+  "description": "Web API of StickIt web server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guedjm/StickItWebServerAPI.git"
+  },
+  "author": "Maxime Guedj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guedjm/StickItWebServerAPI/issues"
+  },
+  "homepage": "https://github.com/guedjm/StickItWebServerAPI#readme"
+}
